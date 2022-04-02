@@ -18,7 +18,7 @@ export default function Faq() {
                         <div className="border-b tab">
                             <div className="bg-[#37464E] border-l-2 border-transparent rounded relative">
                                 <input className="w-full absolute z-10 cursor-pointer opacity-0 h-5 top-6" type="checkbox" id="chck1" />
-                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" htmlFor="chck1">
+                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" >
                                     <span className="text-white font-thin text-base">
                                         What is Friends Alpacas ?
                                     </span>
@@ -36,7 +36,7 @@ export default function Faq() {
                                                 The Alpacas is Project Metaverse on Solana.
                                             </li>
                                             <li className="pb-2">
-                                                We'll create Alpaverse 2.0, Breeding & Stake Alpa NFT to earn $ALPA each day.
+                                                We will create Alpaverse 2.0, Breeding & Stake Alpa NFT to earn $ALPA each day.
                                             </li>
                                         </ul>
                                     </div>
@@ -46,7 +46,7 @@ export default function Faq() {
                         <div className="border-b tab">
                             <div className="bg-[#37464E] border-l-2 border-transparent rounded relative">
                                 <input className="w-full absolute z-10 cursor-pointer opacity-0 h-5 top-6" type="checkbox" id="chck2" />
-                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" htmlFor="chck2">
+                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" >
                                     <span className="text-white font-thin text-base">
                                         Secondary Markets ?
                                     </span>
@@ -71,7 +71,7 @@ export default function Faq() {
                         <div className="border-b tab">
                             <div className="bg-[#37464E] border-l-2 border-transparent rounded relative">
                                 <input className="w-full absolute z-10 cursor-pointer opacity-0 h-5 top-6" type="checkbox" id="chck3" />
-                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" htmlFor="chck3">
+                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" >
                                     <span className="text-white font-thin text-base">
                                         When is Mint Date ?
                                     </span>
@@ -97,7 +97,7 @@ export default function Faq() {
                         <div className="border-b tab">
                             <div className="bg-[#37464E] border-l-2 border-transparent rounded relative">
                                 <input className="w-full absolute z-10 cursor-pointer opacity-0 h-5 top-6" type="checkbox" id="chck3" />
-                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" htmlFor="chck3">
+                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" >
                                     <span className="text-white font-thin text-base">
                                         How Many Supply Friends Alpaca? 
                                     </span>
@@ -123,7 +123,7 @@ export default function Faq() {
                         <div className="border-b tab">
                             <div className="bg-[#37464E] border-l-2 border-transparent rounded relative">
                                 <input className="w-full absolute z-10 cursor-pointer opacity-0 h-5 top-6" type="checkbox" id="chck3" />
-                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" htmlFor="chck3">
+                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" >
                                     <span className="text-white font-thin text-base">
                                         How Much for 1 Alpacas NFT?
                                     </span>
@@ -149,7 +149,7 @@ export default function Faq() {
                         <div className="border-b tab">
                             <div className="bg-[#37464E] border-l-2 border-transparent rounded relative">
                                 <input className="w-full absolute z-10 cursor-pointer opacity-0 h-5 top-6" type="checkbox" id="chck3" />
-                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" htmlFor="chck3">
+                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" >
                                     <span className="text-white font-thin text-base">
                                         What wallets will be supported? 
                                     </span>
@@ -175,7 +175,7 @@ export default function Faq() {
                         <div className="border-b tab">
                             <div className="bg-[#37464E] border-l-2 border-transparent rounded relative">
                                 <input className="w-full absolute z-10 cursor-pointer opacity-0 h-5 top-6" type="checkbox" id="chck3" />
-                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label" htmlFor="chck3">
+                                <header className="flex justify-between items-center p-5 pl-8 pr-8 cursor-pointer select-none tab-label">
                                     <span className="text-white font-thin text-base">
                                         How Many NFT for 1 wallet ?
                                     </span>
