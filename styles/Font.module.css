@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "DungeonChunk";
+  src: url("/fonts/ttf/DungeonChunk.ttf") format("truetype"),
+       url("/fonts/otf/DungeonChunk.otf") format("opentype");
+}
