@@ -14,7 +14,7 @@ export default function Footer() {
                         <div className="mt-8 sm:mt-0 sm:w-full text-white sm:px-8 flex flex-col md:flex-row justify-between">
                             <div className="flex flex-col">
                                 <div className="w-3/12 flex items-center">
-                                    <a className="text-2xl font-semibold" href="/">Alpacas</a>
+                                    <a className="text-2xl font-semibold" href="#">Alpacas</a>
                                 </div>
                                 
                             </div>
