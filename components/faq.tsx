@@ -1,5 +1,4 @@
 import styles from '../styles/Home.module.css';
-import faq from '../styles/faq.css'
 
 
 
