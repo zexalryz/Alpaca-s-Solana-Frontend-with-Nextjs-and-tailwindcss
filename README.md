@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Alpaca's Solana Frontend with NextJS and TailwindCSS
 
 node v 16.13.0
 yarn 1.22
